@@ -2,7 +2,7 @@
 
 using namespace std;
 
-template <class T>
+template <class T> 
 class tree_t
 {
 private:
