@@ -1,7 +1,7 @@
 #include <iostream>
 #include "tree_t.hpp"
 
-using namespace std;
+using namespace std; 
 
 int main() {
 	tree_t<int> tree;
